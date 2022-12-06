@@ -1,0 +1,2 @@
+/home/ferdinand/Desktop/INTech/furry/build/CMakeFiles/edit_cache.dir
+/home/ferdinand/Desktop/INTech/furry/build/CMakeFiles/rebuild_cache.dir
